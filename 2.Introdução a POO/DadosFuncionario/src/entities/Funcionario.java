@@ -14,6 +14,6 @@ public class Funcionario {
 	}
 	
 	public String toString() {
-		return nome + ", " + String.format("%.2f",salarioLiquido());
+		return nome + ", " + "R$" +String.format("%.2f",salarioLiquido());
 	}
 }
