@@ -20,8 +20,7 @@ public class Program {
 		System.out.print("Salario bruto: ");
 		funcionario.salarioBruto = sc.nextDouble();
 		System.out.print("Imposto: ");
-		funcionario.imposto = sc.nextDouble();
-		
+		funcionario.imposto = sc.nextDouble();		
 		System.out.println("Funcionario: " + funcionario.toString());
 		System.out.println("Informe a porcentagem para aumentar o salario: ");
 		double aumentarSalario = sc.nextDouble();
