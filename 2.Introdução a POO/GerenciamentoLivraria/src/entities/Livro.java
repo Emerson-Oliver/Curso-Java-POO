@@ -21,7 +21,7 @@ public class Livro {
 	public String toString() {
 		return "Titulo: " +titulo +", Autor: " + autor + ", Preço R$" + String.format("%.2f", preco) +
 				", Quantidade em estoque: " + quantidadeEmEstoque + " Unidades"
-				 + "Preço: " + String.format("%.2f", precoTotal());
+				 + "Preço: R$" + String.format("%.2f", precoTotal());
 	}
 
 }
