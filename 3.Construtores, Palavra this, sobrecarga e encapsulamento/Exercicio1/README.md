@@ -1,4 +1,4 @@
-#Exercício de fixação
+# Exercício de fixação
 Em um banco, para se cadastrar uma conta bancária, é necessário informar o número da conta, o nome do
 titular da conta, e o valor de depósito inicial que o titular depositou ao abrir a conta. Este valor de depósito
 inicial, entretanto, é opcional, ou seja: se o titular não tiver dinheiro a depositar no momento de abrir sua
@@ -13,7 +13,7 @@ Você deve fazer um programa que realize o cadastro de uma conta, dando opção 
 informado o valor de depósito inicial. Em seguida, realizar um depósito e depois um saque, sempre
 mostrando os dados da conta após cada operação.
 
-#Exemplo 1:
+# Exemplo 1:
 Digite o número da conta: 8532
 Digite o titular da conta: Alex Green
 Existe depósito inicial (s/n)? sim
@@ -27,7 +27,7 @@ Insira um valor de retirada: 300,00
 Dados da conta atualizados:
 Conta 8532, Titular: Alex Green, Saldo: $ 395,00
 
-#Exemplo 2:
+# Exemplo 2:
 Enter account number: 7801
 Enter account holder: Maria Brown
 Is there na initial deposit (y/n)? n
