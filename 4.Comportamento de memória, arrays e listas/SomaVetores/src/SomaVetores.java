@@ -25,7 +25,8 @@ public class SomaVetores {
 		}
 		System.out.println("Vetor resultante: ");
 		for(int index=0; index<n; index+=1) {
-			System.out.println(vetorA[index] + vetorB[index]);
+			vetorResultado[index] = vetorA[index] + vetorB[index];
+			System.out.println(vetorResultado[index]);
 		}
 		scanner.close();
 	}
