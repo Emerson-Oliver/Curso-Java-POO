@@ -248,4 +248,25 @@ N estudantes. Para cada registro de aluguel, informar o nome e email do
 estudante, bem como qual dos quartos ele escolheu (de 0 a 9). Suponha
 que seja escolhido um quarto vago. Ao final, seu programa deve imprimir
 um relatório de todas ocupações do pensionato, por ordem de quarto,
-conforme exemplo.
+# exemplo.
+
+## Quantos quartos seram alugados? 3
+1. Aluguel #1:
+2. Nome: Maria Green
+3. Email: maria@gmail.com
+4. Quarto: 5
+
+# Aluguel #2:
+1. Nome: Marco Antonio
+2. Email: marco@gmail.com
+3. Room: 1
+
+# Aluguel #3:
+1. Nome: Alex Brown
+2. Email: alex@gmail.com
+3. Room: 8
+
+# Quartos ocupados:
+1. 1: Marco Antonio, marco@gmail.com
+2. 5: Maria Green, maria@gmail.com
+3. 8: Alex Brown, alex@gmail.com
